@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Full stack developer :iphone:
-### Launguages known: *React.js*, *Node.js*, *HTML*, *CSS*, 
+### Launguages known: *React.js*, *Node.js*, *HTML*, *CSS*, *C++*, *SQL*
 ### Find me on: [Leetcode](https://leetcode.com/ashiita__/) [LinkedIn](https://www.linkedin.com/in/ashita-nihore-3ab217210/)
 
 Here are some ideas to get you started:
