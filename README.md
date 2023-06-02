@@ -7,10 +7,12 @@
        style="margin: 0 auto"/>
 </div>
 <br/>
-### Hi there, Ashita here
-### I'm a Full stack developer :iphone:
-### Launguages known: *React.js*, *Node.js*, *HTML*, *CSS*, *C++*, *SQL*
-### Find me on: [Leetcode](https://leetcode.com/ashiita__/) [LinkedIn](https://www.linkedin.com/in/ashita-nihore-3ab217210/)
+## <div align="center">Hi there, Ashita here</div>
+## <div align="center">I'm a Full stack developer</div>
+## <div align="center">Launguages known: *React.js*, *Node.js*, *HTML*, *CSS*, *C++*, *SQL*</div>
+## <div align="center">Find me on: [Leetcode](https://leetcode.com/ashiita__/) [LinkedIn](https://www.linkedin.com/in/ashita-nihore-3ab217210/)
+</div>
+
 
 Here are some ideas to get you started:
 
