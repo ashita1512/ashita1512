@@ -7,16 +7,16 @@
        style="margin: 0 auto"/>
 </div>
 <br/>
-## <div align="center">Hi there, Ashita here</div>
-## <div align="center">I'm a Full stack developer</div>
-## <div align="center">Launguages known: *React.js*, *Node.js*, *HTML*, *CSS*, *C++*, *SQL*</div>
-## <div align="center">Find me on: [Leetcode](https://leetcode.com/ashiita__/) [LinkedIn](https://www.linkedin.com/in/ashita-nihore-3ab217210/)
-</div>
+ <div align="center">Hi there, Ashita here</div>
+ <div align="center">I'm a Full stack developer</div>
+ <div align="center">Languages known: *React.js*, *Node.js*, *HTML*, *CSS*, *C++*, *SQL*</div>
+ <br />
 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my skills
+- Find me on: [Leetcode](https://leetcode.com/ashiita__/) [LinkedIn](https://www.linkedin.com/in/ashita-nihore-3ab217210/)
 - 👯 I’m looking to collaborate on real life projects
 - 💬 Ask me about Demon Slayer
 
