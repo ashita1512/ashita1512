@@ -9,7 +9,7 @@
 <br/>
 <div align="center"><strong>Hi there, Ashita here</strong></div>
 <div align="center"><strong>I'm a Full stack developer</strong></div>
-<div align="center"><strong>Languages known: React.js, Node.js, HTML, CSS, C++, SQL, Python</strong></div>
+<div align="center"><strong>Worked on : React.js, Node.js, HTML, CSS, C++, SQL, Python</strong></div>
 
  <br />
 
